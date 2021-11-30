@@ -4,5 +4,8 @@ Week by Week lessons become Blockchain Developer
 ## Goals
 - [ ] ERC-20 contract Walkthrough
 - [ ] Read OpenZeppelin documentation
-- [ ] Deploy Contract
+- [ ] Read scaffold-eth documentation
 - [ ] Develop front-end
+- [ ] Deploy Contract
+- [ ] Publish! 🚀
+- [ ] Share to the world 🌏
