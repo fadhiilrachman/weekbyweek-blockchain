@@ -1,4 +1,4 @@
-# WBW
+# Blockchain
 Week by Week lessons become Blockchain Developer
 
 ## Goals
