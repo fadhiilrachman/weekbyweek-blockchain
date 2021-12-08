@@ -1,5 +1,5 @@
 # Blockchain
-Week by Week lessons become a Blockchain Developer
+Week by Week lessons become a Blockchain Developer. You can contribute too! 
 
 ## Goals
 - [x] ERC-20 Contract Walkthrough
